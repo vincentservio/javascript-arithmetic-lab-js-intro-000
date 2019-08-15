@@ -25,3 +25,4 @@ function inc(n) {
 }
 
 function 
+parseFloat(n)
