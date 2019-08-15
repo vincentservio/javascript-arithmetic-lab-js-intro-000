@@ -20,6 +20,6 @@ function inc(n) {
  return n-=1
  }
  
- function makeInt(n)('2',10){
- return n
+ function makeInt(n){
+ ('2',10)
 }
