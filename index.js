@@ -20,6 +20,6 @@ function inc(n) {
  return n-=1
  }
  
- function parseInt(n){
+ function parseInt('2',10){
  return n
 }
