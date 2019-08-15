@@ -21,5 +21,5 @@ function inc(n) {
  }
  
  function parseInt(n){
- return 
+ return n++
 }
