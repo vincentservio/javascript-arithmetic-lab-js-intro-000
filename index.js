@@ -25,4 +25,4 @@ function inc(n) {
 }
 
 function preserveDecimal(n)
-parseFloat(n)
+parseFloat (n)
