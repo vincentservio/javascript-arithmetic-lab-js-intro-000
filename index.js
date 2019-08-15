@@ -24,5 +24,5 @@ function inc(n) {
   parseInt (n)
 }
 
-function 
+function preserveDecimal(n)
 parseFloat(n)
